@@ -1,4 +1,4 @@
-# Mosaic / a method to remove non-stationary noise from remeated sweeo measurements
+# Mosaic - a method to remove non-stationary noise from remeated sweeo measurements
 <br>
 Repository for the manuscript _Non-stationary Noise Removal from Repeated Sweep Measurements_ by Karolina Prawda, Sebastian Schlecht and Vesa Välimäki. 
 
